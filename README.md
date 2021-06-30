@@ -1,7 +1,7 @@
 - 👋 Hi everyone! My name is Alex.
 - 👀 I'm fond of web-development.
 - 🌱 I'm studying React.js. But I want to learn vast of technologies to become a high-skill professional.
-- 💞️ I want to work with mature collegues,
+- 💞️ I want to work with experienced collegues,
 - ✨ and write clean code.
 - 📫 You can contact me on Facebook https://www.facebook.com/
 ----------------------------------------------------------------------------------------------------------------------------------
