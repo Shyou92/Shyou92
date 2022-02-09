@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, my name is Alexander
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web developer from Russia 🇷🇺</h3>
+<h3 align="center">Web developer from Russia</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyou92)](https://git.io/streak-stats)
 
