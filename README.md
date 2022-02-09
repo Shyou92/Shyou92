@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyou92)](https://git.io/streak-stats)
 
-<h3 align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyou92)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyou92)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Alexander%20Vitchinov/badges/small)](https://www.codewars.com/users/Alexander%20Vitchinov)
   
@@ -20,7 +20,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shyou92&theme=solarized_dark)
 
-- 👋 Hi everyone! My name is Alex.
 - 👀 I'm fond of web-development.
 - 🌱 I'm studying JavaScript and its frameworks. But I want to learn vast of technologies to become a high-skill professional.
 - 💞️ I want to work with experienced collegues,
