@@ -11,6 +11,9 @@
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyou92)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 👋 Hi everyone! My name is Alex.
 - 👀 I'm fond of web-development.
