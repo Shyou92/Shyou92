@@ -18,6 +18,21 @@
 [![codewars](https://www.codewars.com/users/Alexander%20Vitchinov/badges/small)](https://www.codewars.com/users/Alexander%20Vitchinov)
 
 
+![](https://komarev.com/ghpvc/?username=Shyou92)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shyou92)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyou92&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shyou92&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shyou92&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shyou92&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shyou92&theme=solarized_dark)
+
 - 👋 Hi everyone! My name is Alex.
 - 👀 I'm fond of web-development.
 - 🌱 I'm studying JavaScript and its frameworks. But I want to learn vast of technologies to become a high-skill professional.
