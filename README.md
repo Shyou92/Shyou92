@@ -7,6 +7,9 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shyou92)](https://git.io/streak-stats)
+
+
 
 
 - 👋 Hi everyone! My name is Alex.
